@@ -14,3 +14,10 @@ Local session:
 ```
 terminator -M
 ```
+
+Note:
+* For now it's expecting a tmux session named terminator
+```
+1. On the server side do create a tmux session named terminator
+tmux new -s terminator
+```
