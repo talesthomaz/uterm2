@@ -1,0 +1,9 @@
+*.pyc
+terminatorlib/*.pyc
+.project
+.pydevproject
+terminatorlib/meliae
+_trial_temp
+terminatorc
+*.iml
+.idea
