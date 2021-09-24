@@ -1,6 +1,8 @@
 # uterm2
-Terminator + Tmux:  multiplexing  ssh connections with Tmux control mode.
 
+It's a linux terminal with support of Tmux control. 
+
+Terminator + Tmux:  tmux do render panes/tabs in a single ssh connection. 
 
 Terminator support the [tmux control mode](http://man7.org/linux/man-pages/man1/tmux.1.html#CONTROL_MODE).
 
